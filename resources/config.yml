@@ -1,0 +1,19 @@
+---
+# Slapper Dark Configuration by Lentou
+# Slapper Original Author jojoe77777
+
+enable:
+  rotation: true
+  slapback: false
+  cooldown: false
+
+# Distance for Rotation
+max-distance: 16
+# Delay for Cooldown and Message
+delay: 0.5
+message: "§7You're hitting a NPC too fast"
+# World Player Count
+worlds: []
+count-interval: 1
+count: "§b{number} §7Playing"
+...
